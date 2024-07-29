@@ -2,7 +2,7 @@
 
 This sample Spring Boot application can generate random "Chuck Norris" jokes for you. This is achieved through
 a service layer that fetches jokes from a predefined list. We use
-[Chuck Norris For Actutor](https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator) to get
+[Chuck Norris For Actuator](https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator) to get
 these random jokes. Finally, the jokes are displayed on a simple webpage generated using Thymeleaf.  
 
 # Screenshots
